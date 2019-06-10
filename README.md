@@ -5,7 +5,7 @@
 
 ## Overview
 
-Containerum is a Web UI for Kubernetes. Containerum includes tools for simple CI/CD pipelines setup and team management. Release notes are available [here](https://docs.containerum.com/release-notes/platform/).
+Containerum is a cloud management sistem. Containerum includes tools for simple CI/CD pipelines setup and team management. Release notes are available [here](https://docs.containerum.com/release-notes/platform/).
 
 - Runs on top of any Kubernetes cluster
 - Imports the resources already existing in Kubernetes clusters
